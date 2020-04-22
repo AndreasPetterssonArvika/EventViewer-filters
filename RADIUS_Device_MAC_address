@@ -1,4 +1,4 @@
-This filter is a copy of the default view "Network Policy and Access Services with events 6272 and 6278 filtered out and a filter that searches for the MAC address of a specific connecting device
+This filter is a copy of the default view "Network Policy and Access Services with event 6272 filtered out and a filter that searches for the MAC address of a specific connecting device
 
 <QueryList>
   <Query Id="0" Path="System">

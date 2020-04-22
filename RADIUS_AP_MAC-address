@@ -1,4 +1,4 @@
-This filter is a copy of the default view "Network Policy and Access Services with events 6272 and 6278 filtered out and a filter that searches for a specific Access Point by MAC-address
+This filter is a copy of the default view "Network Policy and Access Services with event 6272 filtered out and a filter that searches for a specific Access Point by MAC-address
 
 <QueryList>
   <Query Id="0" Path="System">
